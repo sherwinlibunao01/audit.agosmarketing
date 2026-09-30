@@ -1,0 +1,34 @@
+# Agos Marketing
+
+> Lead Automation for Service-Based Businesses. Getting leads is only the beginning. Agos builds the system that manages what happens next.
+
+Agos Marketing builds the Client Acquisition System: Lead Management + Automated Follow-Up for service-based businesses (Chiropractic, Physical therapy, Home services, HVAC & plumbing, Contractors, Med spas, Coaches, Real estate). The journey it covers: Capture, Organize, Follow Up, Book, Convert, Recover, Retain.
+
+## Core automations
+- Missed-Call Text-Back: Every unanswered call gets an instant text before the caller dials the next business.
+- Appointment Reminder System: Multi-touch reminders that get read, cutting down empty chairs.
+- Abandoned Booking Recovery: Follows up on a booking that was started but never finished.
+- No-Show Recovery & Rebooking: An empty slot automatically triggers outreach to get it rebooked.
+- Two-Way Texting Inbox: Every call, text and form reply lands in one thread your front desk can answer.
+- Lead Nurture Follow-Up Sequence: Keeps a new inquiry warm with a multi-step sequence until they book.
+- Dormant Customer Reactivation: Wakes up customers you haven't seen in 6-12 months.
+- New Customer Welcome Sequence: Preps a newly booked customer with what to expect before their first visit.
+- Review Request Automation: Asks for a review at the moment a customer is most likely to leave one.
+
+## Key pages
+- [Home](https://agosmarketing.com/): What Agos does, what's included, who it's for, FAQ
+- [Free Lead Leak Audit](https://audit.agosmarketing.com/): 7-question audit with score, letter grades and a PDF report
+- [Book a call](https://booking.agosmarketing.com/): Free 20-minute strategy call
+
+## FAQ
+- What exactly is a Client Acquisition System? It's the structured process that connects lead capture, CRM organization, automated follow-up, booking, conversion, recovery and reactivation into one system, so every lead gets a next action instead of falling through the cracks. That's what Agos builds for service-based businesses.
+- Do we have to change our booking software? No. The system sits alongside whatever you already use for appointments. It handles the messaging layer, not your customer records.
+- Will people know it's automated? It reads like your front desk, because we write it in your voice and it replies in a real conversation thread. Anything it can't handle gets handed to a human.
+- How much work is this for my team? Setup is on us. We build and configure it. Day to day, your team answers replies that come in, the same as any other message.
+- Are we locked in? Month to month, no long-term contract. If you leave, the flows we built for your business stay with your account.
+- How new is Agos? New. We're taking on a small number of founding clients at founder-level pricing and attention, and we'd rather say that plainly than dress up someone else's results as ours.
+
+## Contact
+- Email: hello@agosmarketing.com
+- LinkedIn: https://www.linkedin.com/company/agosmarketing/
+- Facebook: https://www.facebook.com/agosmarketing
