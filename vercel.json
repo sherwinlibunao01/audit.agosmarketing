@@ -1,27 +1,7 @@
 {
-  "cleanUrls": true,
-  "headers": [
-    {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "X-Content-Type-Options",
-          "value": "nosniff"
-        },
-        {
-          "key": "Referrer-Policy",
-          "value": "strict-origin-when-cross-origin"
-        }
-      ]
-    },
-    {
-      "source": "/(.*).(png|mp4|webmanifest)",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=604800"
-        }
-      ]
-    }
-  ]
+  "outputDirectory":"public",
+  "cleanUrls":true,
+  "functions":{"api/*.js":{"maxDuration":300}},
+  "crons":[{"path":"/api/audit-admin?action=drain","schedule":"0 0 * * *"}],
+  "headers":[{"source":"/(.*)","headers":[{"key":"X-Content-Type-Options","value":"nosniff"},{"key":"Referrer-Policy","value":"strict-origin-when-cross-origin"}]}]
 }

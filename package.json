@@ -1,0 +1,1 @@
+{"name":"agos-audit-vercel","private":true,"type":"module","engines":{"node":"24.x"},"scripts":{"test":"node --test tests/*.test.mjs","build":"node scripts/check-config.mjs"},"dependencies":{"@vercel/functions":"^3.9.11","pg":"^8.23.1"},"devDependencies":{"@electric-sql/pglite":"^0.5.8"}}
